@@ -17,4 +17,4 @@ public class Mahasiswa24 {
     public void tampilInformasi() {
         System.out.printf("%-15s %-13s %-9s %.2f\n", nama, nim, kelas, ipk);
     }
-}
+} 

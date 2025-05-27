@@ -13,3 +13,4 @@ public class Mahasiswa {
         System.out.println("NIM: " + nim + ", Nama: " + nama + ", Keperluan: " + keperluan);
     }
 }
+

@@ -28,3 +28,4 @@ public class SLLMain24 {
         sll.print();
     }
 }
+
